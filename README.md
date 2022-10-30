@@ -6,9 +6,15 @@
 ### - 💬 Ask me about IA or any Network tech related stuff.
 ### - 📫 How to reach me: [Email - thomas.mirbey@edu.univ-fcomte.fr](mailto:thomas.mirbey@edu.univ-fcomte.fr), [LinkedIn - /thomas-mirbey](https://fr.linkedin.com/in/thomas-mirbey)
 
+### - 📊 See the breakdown of programming languages I use:
+![ThomasM2568's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasm2568&theme=transparent&show_icons=true)
+### 
+### - 📊 See my profile stats :
 ![ThomasM2568's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasm2568&theme=transparent&show_icons=true)
 
+
 <!--
+
 **ThomasM2568/ThomasM2568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
