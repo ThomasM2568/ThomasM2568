@@ -19,8 +19,9 @@
 ### - 📊 See my profile stats :
 ![ThomasM2568's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasm2568&theme=transparent&show_icons=true)
 ###
+<!--
 ![ThomasM2568's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasm2568&theme=transparent&show_icons=true)
-
+-->
 
 <!--
 
