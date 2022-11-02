@@ -1,7 +1,13 @@
-### About me :
-### - 🔭 I’m currently working on a IA TicTacToe in Python.    
-### - 👨‍💻 I’m currently learning how to use REST APIs.
-### - 📫 How to reach me: 
+<h3> Hello, I'm Thomas MIRBEY</h3>
+<h5>I am currently studying in Bachelor Networks and Telecommunications 📚<h5>
+<h3>About me :</h3>
+ <ul>
+  <li>🔭 I’m working on a IA TicTacToe in Python.</li>
+  <li>👨‍💻 I’m learning how to use REST APIs.</li>
+</ul> 
+
+<h3>📫 How to reach me: </h3>
+
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:thomas.mirbey@edu.univ-fcomte.fr)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://fr.linkedin.com/in/thomas-mirbey)
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://thomasmirbey.my.canva.site)
