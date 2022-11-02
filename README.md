@@ -2,7 +2,7 @@
 ### I'm a French Student in Second Year of Bachelor of Network and Telecommunications 📚 
 ### ______
 ### ℹ️ About me :
-### - 🔭 I’m currently working on a IA TicTacToe in Python Programming Language.          
+### - 🔭 I’m currently working on a IA TicTacToe in Python.    
 ### - 👨‍💻 I’m currently learning how to use REST APIs.
 ### - 💬 Ask me about IA or any Network tech related stuff.
 ### - 📫 How to reach me: 
