@@ -2,7 +2,7 @@
 <h5>I am currently studying in Bachelor Networks and Telecommunications 📚<h5>
 <h3>About me :</h3>
  <ul>
-  <li>🔭 I’m working on a IA TicTacToe in Python.</li>
+  <li>🔭 I’m working with an ESP32.</li>
   <li>👨‍💻 I’m learning how to use REST APIs.</li>
 </ul> 
 
