@@ -1,10 +1,5 @@
 <h3> Hello, I'm Thomas MIRBEY</h3>
-<h5>I am currently studying in Bachelor Networks and Telecommunications 📚<h5>
-<h3>About me :</h3>
- <ul>
-  <li>🔭 I’m working with an ESP32.</li>
-  <li>👨‍💻 I’m learning how to use REST APIs.</li>
-</ul> 
+<h5>I am a student in 3rd year of Bachelor Networks and Telecommunications 📚<h5>
 
 <h3>📫 How to reach me: </h3>
 
