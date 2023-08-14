@@ -5,7 +5,7 @@
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:thomas.mirbey@edu.univ-fcomte.fr)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://fr.linkedin.com/in/thomas-mirbey)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://thomasmirbey.my.canva.site)
+
 ### I am interested in :
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="90" 
