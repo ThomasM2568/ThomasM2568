@@ -1,5 +1,5 @@
 <h3> Hello, I'm Thomas MIRBEY</h3>
-<h5>I am a student in 3rd year of Bachelor Networks and Telecommunications 📚<h5>
+<h5>I am a student in 1st year of Master IOT 📚<h5>
 
 <h3>📫 How to reach me: </h3>
 
