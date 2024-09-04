@@ -14,7 +14,7 @@
      height="30">
 
 ### See my profile stats :
-![ThomasM2568's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasm2568&theme=transparent&layout=compact&langs_count=8)
+![ThomasM2568's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasm2568&theme=transparent&layout=compact&langs_count=10)
  <!--
 
 ![ThomasM2568's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasm2568&theme=transparent&show_icons=true)
